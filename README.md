@@ -1,11 +1,15 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://linuzenas.io)
-<h1 align="center">Hi 👋, I'm Linu Zenas Paul</h1>
+<h1 align="center">Hi 👋, I'm P Linu Zenas Paul</h1>
 <h3 align="center">A passionate about Learning, Coding, and Growing: One Student's Journey in Tech from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Django, Java, Web developing.**
+- 🌱 I’m currently learning **DSA, AI/ML concepts, and integrating APIs for more dynamic applications.**
+
+- 🔭 I’m currently working on various project ideas.
+
+- 💬 Ask me about developing **Telegram bots, and building intuitive GUI applications.**
 
 - 📫 How to reach me **petluzenas@gmail.com**
 
